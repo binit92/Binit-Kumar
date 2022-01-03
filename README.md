@@ -1,5 +1,6 @@
 + 👋 Hi, I’m Binit
-+ 👀 I’m interested in system design and data engineering
-+ 🌱 I’m currently pursuing master from Concordia University, Montreal
-+ 💞️ I’m looking to collaborate on anything data related.
-+ 📫 How to reach me - https://www.linkedin.com/in/binit92/
++ 🌱 Currently graduate student at Concordia University, Montreal
++ 👀 Interested in **System Design and Data Engineering**
++ 💞️ Looking to collaborate on anything data related.
++ 📫 [LinkedIn](https://www.linkedin.com/in/binit92/)
++ 📫 [Resume](https://github.com/binit92/resume/blob/master/pdf/resume_Binit_Kumar.pdf)
