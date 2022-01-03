@@ -2,4 +2,4 @@
 + 👀 I’m interested in system design and data engineering
 + 🌱 I’m currently pursuing master from Concordia University, Montreal
 + 💞️ I’m looking to collaborate on anything data related.
-+ 📫 How to reach me - https://binitkumar.com/
++ 📫 How to reach me - https://www.linkedin.com/in/binit92/
